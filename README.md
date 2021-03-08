@@ -1,6 +1,6 @@
 # Browser-Automation
 
-The complete code for the project is present in BrowserAutomation.py which is an app made to automate some basic mundane tasks in chrome browser using Selenium framework and Google's Speech to Text API to provide a virtual assistant vibe.
+The complete code for the project is present in BrowserAutomation.py which is an app made to automate some basic mundane tasks in chrome browser using Selenium framework and Google's Speech to Text API to provide a virtual assistant experience.
 
 You need to use the browser driver according to the browser you use, In my case I used chromedriver v81.0. 
 
